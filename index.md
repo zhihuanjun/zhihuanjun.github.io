@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## 君
 
 You can use the [editor on GitHub](https://github.com/zhihuanjun/zhihuanjun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 日常
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,7 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![2345_image_file_copy_1](https://user-images.githubusercontent.com/81838226/113478828-e9f7e800-94bd-11eb-9e2c-f5d014caec01.jpg)
+
 
 ### Jekyll Themes
 
